@@ -64,7 +64,7 @@ No backend server is required if your current implementation uses the GitHub API
 
 ## 🌐 Live Demo
 
-[Live Demo](https://khushichaubey-493.github.io/github-search-profile/)
+[Live Demo] https://github.com/KhushiChaubey-493/github-search-profile
 
 
 ```text
