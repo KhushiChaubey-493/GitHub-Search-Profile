@@ -62,6 +62,10 @@ Open `index.html` in your browser.
 
 No backend server is required if your current implementation uses the GitHub API directly from the browser.
 
+ Screenshot 
+<img width="1315" height="694" alt="github-profile-search" src="https://github.com/user-attachments/assets/e0dced7c-d0fa-4ba1-b8d0-62c35cb20b7e" />
+
+
 ## 🌐 Live Demo
 
 [Live Demo] 
